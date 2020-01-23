@@ -6,7 +6,8 @@ import javafx.stage.Stage;
 public class Hello extends Application{
     public static void main(String[] args) {
         System.out.println("hello word");
-        launch(args);
+        //launch(args);
+        Application.launch(args);
     }
 
     @Override
@@ -14,6 +15,7 @@ public class Hello extends Application{
         primaryStage.setTitle("Hello world");//设置标题
 
         primaryStage.show();//让窗口显示出来
+
         primaryStage.setMaxWidth(800);//设置最大宽度
         primaryStage.setMaxHeight(800);//设置最大高度
 
@@ -25,5 +27,8 @@ public class Hello extends Application{
 
         primaryStage.setFullScreen(true);//全屏
         //primaryStage.setIconified(true);//最小化
+
+
+        //primaryStage.close();//关闭窗口
     }
 }
