@@ -18,7 +18,7 @@ public class JavaFX_04 extends Application{
 
         //primaryStage.setAlwaysOnTop(true);//设置窗口置顶
         //primaryStage.setOpacity(0.5);//窗口透明度
-
+        //动态监听窗口位置
         primaryStage.xProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observable, Number oldValue, Number newValue) {
