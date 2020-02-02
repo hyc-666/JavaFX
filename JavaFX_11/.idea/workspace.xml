@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b70345aa-d940-416a-96bb-3966ac0abc9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaFX_14/JavaFX_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFX_14/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFX_15/JavaFX_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -35,20 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java_Data_Structure/DataStructure" />
   </component>
-  <component name="RunManager" selected="Application.JavaFX_14">
-    <configuration name="JavaFX_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFX_11.JavaFX_11" />
-      <module name="JavaFX_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaFX_11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JavaFX_15">
     <configuration name="JavaFX_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaFX_12.JavaFX_12" />
       <module name="JavaFX_11" />
@@ -101,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaFX_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX_15.JavaFX_15" />
+      <module name="JavaFX_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaFX_15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaFX_15" />
         <item itemvalue="Application.JavaFX_14" />
         <item itemvalue="Application.JavaFX_13_1" />
         <item itemvalue="Application.JavaFX_13" />
         <item itemvalue="Application.JavaFX_12" />
-        <item itemvalue="Application.JavaFX_11" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580565760019</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JavaFX_14.HBox水平布局和VBox垂直布局">
+      <created>1580569699972</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580569699972</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,41 +184,42 @@
     <MESSAGE value="JavaFX_11按钮快捷键" />
     <MESSAGE value="JavaFX_12输入框，密码框和标签" />
     <MESSAGE value="JavaFX_13点阵布局管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaFX_13点阵布局管理" />
+    <MESSAGE value="JavaFX_14.HBox水平布局和VBox垂直布局" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaFX_14.HBox水平布局和VBox垂直布局" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1580565899616">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
     <state x="537" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1462.864@0.0.1462.864" timestamp="1580565899616" />
-    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1580565758748">
+    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1580569698974">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state x="372" y="23" key="CommitChangelistDialog2/0.0.1462.864@0.0.1462.864" timestamp="1580565758748" />
-    <state x="512" y="174" key="FileChooserDialogImpl" timestamp="1580540933240">
+    <state x="372" y="23" key="CommitChangelistDialog2/0.0.1462.864@0.0.1462.864" timestamp="1580569698974" />
+    <state x="512" y="174" key="FileChooserDialogImpl" timestamp="1580630927519">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state x="512" y="174" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1580540933240" />
-    <state width="1419" height="133" key="GridCell.Tab.0.bottom" timestamp="1580569361872">
+    <state x="512" y="174" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1580630927519" />
+    <state width="1419" height="133" key="GridCell.Tab.0.bottom" timestamp="1580656404050">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="133" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1580569361872" />
-    <state width="1419" height="133" key="GridCell.Tab.0.center" timestamp="1580569361872">
+    <state width="1419" height="133" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1580656404050" />
+    <state width="1419" height="133" key="GridCell.Tab.0.center" timestamp="1580656404050">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="133" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1580569361872" />
-    <state width="1419" height="133" key="GridCell.Tab.0.left" timestamp="1580569361872">
+    <state width="1419" height="133" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1580656404050" />
+    <state width="1419" height="133" key="GridCell.Tab.0.left" timestamp="1580656404049">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="133" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1580569361872" />
-    <state width="1419" height="133" key="GridCell.Tab.0.right" timestamp="1580569361872">
+    <state width="1419" height="133" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1580656404049" />
+    <state width="1419" height="133" key="GridCell.Tab.0.right" timestamp="1580656404050">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="133" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1580569361872" />
-    <state x="324" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580565768119">
+    <state width="1419" height="133" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1580656404050" />
+    <state x="324" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580569717942">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state x="324" y="166" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1580565768119" />
+    <state x="324" y="166" key="Vcs.Push.Dialog.v2/0.0.1462.864@0.0.1462.864" timestamp="1580569717942" />
     <state x="301" y="169" width="859" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580564013592">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
