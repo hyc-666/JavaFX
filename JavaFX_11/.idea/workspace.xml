@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b70345aa-d940-416a-96bb-3966ac0abc9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaFX_15/JavaFX_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFX_15/JavaFX_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFX_15/JavaFX_15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580569699972</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JavaFX_15透明度，可见度，可管理性">
+      <created>1580656459909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580656459909</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,37 +192,38 @@
     <MESSAGE value="JavaFX_12输入框，密码框和标签" />
     <MESSAGE value="JavaFX_13点阵布局管理" />
     <MESSAGE value="JavaFX_14.HBox水平布局和VBox垂直布局" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaFX_14.HBox水平布局和VBox垂直布局" />
+    <MESSAGE value="JavaFX_15透明度，可见度，可管理性" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaFX_15透明度，可见度，可管理性" />
   </component>
   <component name="WindowStateProjectService">
     <state x="537" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1580565899616">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
     <state x="537" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1462.864@0.0.1462.864" timestamp="1580565899616" />
-    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1580569698974">
+    <state x="372" y="23" key="CommitChangelistDialog2" timestamp="1580656458774">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state x="372" y="23" key="CommitChangelistDialog2/0.0.1462.864@0.0.1462.864" timestamp="1580569698974" />
+    <state x="372" y="23" key="CommitChangelistDialog2/0.0.1462.864@0.0.1462.864" timestamp="1580656458774" />
     <state x="512" y="174" key="FileChooserDialogImpl" timestamp="1580630927519">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
     <state x="512" y="174" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1580630927519" />
-    <state width="1419" height="133" key="GridCell.Tab.0.bottom" timestamp="1580656404050">
+    <state width="1419" height="175" key="GridCell.Tab.0.bottom" timestamp="1580656829807">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="133" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1580656404050" />
-    <state width="1419" height="133" key="GridCell.Tab.0.center" timestamp="1580656404050">
+    <state width="1419" height="175" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1580656829807" />
+    <state width="1419" height="175" key="GridCell.Tab.0.center" timestamp="1580656829807">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="133" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1580656404050" />
-    <state width="1419" height="133" key="GridCell.Tab.0.left" timestamp="1580656404049">
+    <state width="1419" height="175" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1580656829807" />
+    <state width="1419" height="175" key="GridCell.Tab.0.left" timestamp="1580656829807">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="133" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1580656404049" />
-    <state width="1419" height="133" key="GridCell.Tab.0.right" timestamp="1580656404050">
+    <state width="1419" height="175" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1580656829807" />
+    <state width="1419" height="175" key="GridCell.Tab.0.right" timestamp="1580656829807">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="133" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1580656404050" />
+    <state width="1419" height="175" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1580656829807" />
     <state x="324" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580569717942">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
@@ -224,9 +232,9 @@
       <screen x="0" y="0" width="1462" height="864" />
     </state>
     <state x="301" y="169" width="859" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1462.864@0.0.1462.864" timestamp="1580564013592" />
-    <state x="141" y="43" key="new project wizard" timestamp="1580455771748">
+    <state x="141" y="43" key="new project wizard" timestamp="1580720665049">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state x="141" y="43" key="new project wizard/0.0.1462.864@0.0.1462.864" timestamp="1580455771748" />
+    <state x="141" y="43" key="new project wizard/0.0.1462.864@0.0.1462.864" timestamp="1580720665049" />
   </component>
 </project>

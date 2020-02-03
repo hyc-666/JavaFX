@@ -44,6 +44,13 @@ public class JavaFX_15 extends Application {
         hBox.setPadding(new Insets(30));
         anchorPane.setStyle("-fx-background-color:green");
 
+        b3.setOnAction(new EventHandler<ActionEvent>() {//好像这个单击事件没有起作用
+            @Override
+            public void handle(ActionEvent event) {
+                System.out.println("这是b3的单击事件");
+            }
+        });
+
         VBox vBox = new VBox();
         vBox.getChildren().addAll(b5,b6,b7);
         anchorPane.getChildren().addAll(vBox);
