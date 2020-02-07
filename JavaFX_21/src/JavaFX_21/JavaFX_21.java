@@ -4,6 +4,7 @@ import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.TilePane;
 import javafx.stage.Stage;
 
@@ -28,6 +29,8 @@ public class JavaFX_21 extends Application {
         //类似前面的流式布局
         //只不过改变某个结点属性后其他结点会跟着一起中心对齐
         tilePane.setPadding(new Insets(20));//内边距
+        tilePane.setStyle("-fx-background-color:#3366FF");
+        AnchorPane.setBottomAnchor(b1,20.0);
         //行距和列间距
         tilePane.setVgap(10);
         tilePane.setHgap(10);
