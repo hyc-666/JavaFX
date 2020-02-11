@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b70345aa-d940-416a-96bb-3966ac0abc9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaFX_21/src/JavaFX_26_Menu/JavaFX_26_Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFX_21/src/JavaFX_26_Menu/item.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFX_20_TextFlow/JavaFX_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFX_20_TextFlow/JavaFX_20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +35,15 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java_Data_Structure/Arithmetic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.JavaFX_20">
-    <configuration name="JavaFX_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFX_16.JavaFX_16" />
+  <component name="RunManager" selected="Application.JavaFX_11">
+    <configuration name="JavaFX_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX_11.JavaFX_11" />
       <module name="JavaFX_11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaFX_16.*" />
+          <option name="PATTERN" value="JavaFX_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaFX_11" />
         <item itemvalue="Application.JavaFX_20" />
         <item itemvalue="Application.JavaFX_19" />
         <item itemvalue="Application.JavaFX_18" />
         <item itemvalue="Application.JavaFX_17" />
-        <item itemvalue="Application.JavaFX_16" />
       </list>
     </recent_temporary>
   </component>

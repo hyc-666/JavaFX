@@ -41,7 +41,7 @@ public class JavaFX_20 extends Application {
 
         textFlow.setLineSpacing(20);//行距
         //将两个文本布局放到一个布局中会发现文本的布局宽度不会随着窗口宽度变化
-        //可以设置监听器来查看这两个值得变化‘
+        //可以设置监听器来查看这两个值得变化
         primaryStage.widthProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observable, Number oldValue, Number newValue) {
