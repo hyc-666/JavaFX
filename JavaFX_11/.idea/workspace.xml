@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b70345aa-d940-416a-96bb-3966ac0abc9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaFX_21/src/JavaFX_26_Menu/JavaFX_26_Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaFX_21/src/JavaFX_26_Menu/item.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFX_20_TextFlow/JavaFX_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFX_20_TextFlow/JavaFX_20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaFX_21" />
   </component>
   <component name="RunManager" selected="Application.JavaFX_11">
     <configuration name="JavaFX_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -253,26 +250,26 @@
       <screen x="0" y="0" width="1462" height="864" />
     </state>
     <state x="372" y="23" key="CommitChangelistDialog2/0.0.1462.864@0.0.1462.864" timestamp="1580909466064" />
-    <state x="512" y="174" key="FileChooserDialogImpl" timestamp="1580980801886">
+    <state x="512" y="174" key="FileChooserDialogImpl" timestamp="1581598444003">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state x="512" y="174" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1580980801886" />
-    <state width="1419" height="219" key="GridCell.Tab.0.bottom" timestamp="1580909484780">
+    <state x="512" y="174" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1581598444003" />
+    <state width="1419" height="219" key="GridCell.Tab.0.bottom" timestamp="1581432904849">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1580909484780" />
-    <state width="1419" height="219" key="GridCell.Tab.0.center" timestamp="1580909484780">
+    <state width="1419" height="219" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1581432904849" />
+    <state width="1419" height="219" key="GridCell.Tab.0.center" timestamp="1581432904849">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1580909484780" />
-    <state width="1419" height="219" key="GridCell.Tab.0.left" timestamp="1580909484780">
+    <state width="1419" height="219" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1581432904849" />
+    <state width="1419" height="219" key="GridCell.Tab.0.left" timestamp="1581432904849">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1580909484780" />
-    <state width="1419" height="219" key="GridCell.Tab.0.right" timestamp="1580909484780">
+    <state width="1419" height="219" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1581432904849" />
+    <state width="1419" height="219" key="GridCell.Tab.0.right" timestamp="1581432904849">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state width="1419" height="219" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1580909484780" />
+    <state width="1419" height="219" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1581432904849" />
     <state x="324" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580909474877">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
