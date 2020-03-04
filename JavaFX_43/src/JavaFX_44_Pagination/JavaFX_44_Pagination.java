@@ -1,8 +1,6 @@
-package JavaFX_43_Pagination;
+package JavaFX_44_Pagination;
 
 import javafx.application.Application;
-import javafx.beans.value.ChangeListener;
-import javafx.beans.value.ObservableValue;
 import javafx.geometry.Pos;
 import javafx.scene.Group;
 import javafx.scene.Node;
@@ -15,7 +13,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import javafx.util.Callback;
 
-public class JavaFX_43_Pagination extends Application {
+public class JavaFX_44_Pagination extends Application {
 
     public static void main(String[] args) {
         launch(args);
@@ -41,7 +39,7 @@ public class JavaFX_43_Pagination extends Application {
 
 
         pagination.setPageFactory(new Callback<Integer, Node>() {
-            //不知道为什么，这个工厂方法如果没有对其中页面进行编辑的话，底部的选中栏则不会切换为选中状态
+            //这个工厂方法如果没有对其中页面进行编辑的话，底部的选中栏则不会切换为选中状态
             //也就是说如果当前的页面没有内容那么这个页面就不会选中。
             @Override
             public Node call(Integer param) {
@@ -68,7 +66,7 @@ public class JavaFX_43_Pagination extends Application {
         primaryStage.setWidth(800);
         Scene scene = new Scene(group);
         primaryStage.setScene(scene);
-        primaryStage.setTitle("JavaFX_43");
+        primaryStage.setTitle("JavaFX_44");
         primaryStage.show();
 //
 //        pagination.currentPageIndexProperty().addListener(new ChangeListener<Number>() {
