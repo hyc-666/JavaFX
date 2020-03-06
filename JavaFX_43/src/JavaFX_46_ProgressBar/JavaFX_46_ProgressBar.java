@@ -79,13 +79,13 @@ public class JavaFX_46_ProgressBar extends Application {
             }
         };
         scheduledService.setDelay(Duration.millis(200));//200ms后开始运行
-        scheduledService.setPeriod(Duration.millis(60));//100ms刷新一次
+        scheduledService.setPeriod(Duration.millis(30));//100ms刷新一次
         scheduledService.start();
 
         progressBar.progressProperty().addListener(new ChangeListener<Number>() {
             @Override
             public void changed(ObservableValue<? extends Number> observable, Number oldValue, Number newValue) {
-                System.out.println(newValue);
+//                System.out.println(newValue);
             }
         });
 
