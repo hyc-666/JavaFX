@@ -55,7 +55,7 @@ public class JavaFX_48_Spinner extends Application {
         //不过我觉得这种方很麻烦，感觉也用不到
         //直接放一个list进去然后再list上操作不好吗
         //大不了每操作一次书信一下列表
-        //以后真的如果需要这种大批量得数据时再回过头再来学习吧
+        //以后真的如果需要这种大批量的数据时再回过头再来学习吧
 //        spinner.setValueFactory(mySpinnerValueFactory);
 //        //给mySpinnerValueFactory设置setConverter和StringConverter
 //        mySpinnerValueFactory.setConverter(new StringConverter<Student>() {
