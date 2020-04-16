@@ -1,5 +1,5 @@
 package javafx_65;
-
+//文件和文件夹选择器
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -14,7 +14,6 @@ import javafx.stage.Stage;
 
 import java.io.*;
 import java.util.List;
-import java.util.Stack;
 import java.util.function.Consumer;
 
 public class JavaFX_65_FileChooser extends Application {
