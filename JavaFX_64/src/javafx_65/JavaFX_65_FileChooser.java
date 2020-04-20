@@ -161,8 +161,6 @@ public class JavaFX_65_FileChooser extends Application {
                         //这里一定要注意流的关闭顺序
                         outputStreamWriter.close();
                         fileOutputStream.close();
-                    } catch (FileNotFoundException e) {
-                        e.printStackTrace();
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
@@ -182,8 +180,10 @@ public class JavaFX_65_FileChooser extends Application {
                 if (file != null) {
                     System.out.println(file.getAbsoluteFile());
                     File[] files = file.listFiles();//获得文件夹下的所有文件
-                    for (File f : files) {
-                        System.out.println(f.getAbsoluteFile());
+                    if (files != null) {
+                        for (File f : files) {
+                            System.out.println(f.getAbsoluteFile());
+                        }
                     }
                 }
             }
