@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
-import jdk.nashorn.internal.runtime.regexp.joni.ast.AnchorNode;
 
 import java.io.File;
 import java.io.FileInputStream;
