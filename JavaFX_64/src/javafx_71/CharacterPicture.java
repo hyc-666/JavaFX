@@ -21,8 +21,9 @@ public class CharacterPicture extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         AnchorPane anchorPane = new AnchorPane();
-        String path = "file:D:\\Git\\pictures\\famle.jpg";
+        String path = "file:D:\\Git\\pictures\\car.jpg";
         Image image = new Image(path,300,200,false, true);
+//        Image image = new Image(path);
         ImageView imageView = new ImageView(image);
         PixelReader pixelReader = image.getPixelReader();
         int height = (int) image.getHeight();
