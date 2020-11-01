@@ -55,7 +55,7 @@ public class CharacterPicture extends Application {
     }
 
     public static void output(StringBuffer stringBuffer) throws Exception {
-        File file = new File("D:\\Git\\pictures\\test.txt");
+        File file = new File("test.txt");
         FileOutputStream fileOutputStream = new FileOutputStream(file);
         OutputStreamWriter outputStreamWriter = new OutputStreamWriter(fileOutputStream);
         BufferedWriter bufferedWriter = new BufferedWriter(outputStreamWriter);
